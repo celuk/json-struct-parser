@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Seyyid Hikmet CELIK
-# 181201047
-
 if [[ $1 != "-f" ]]
 then
     file="$1"
